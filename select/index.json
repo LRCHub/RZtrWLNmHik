@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "鳩かもめ",
+  "base_artist": "My Hair Is Bad",
+  "createdAt": "2026-02-23T16:13:43.470494Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "鳩かもめ",
+      "artist": "My Hair is Bad",
+      "has_synced": false,
+      "path": "select/pl_01_鳩かもめ_My_Hair_is_Bad.txt"
+    }
+  ]
+}
